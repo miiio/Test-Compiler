@@ -1,0 +1,7 @@
+new	_	_	[0]
+move	5	_	{1}
+move	{1}	_	{0}
+move	{0}	_	[0]
+move	[0]	_	{4}
+move	{4}	_	{3}
+write	{3}	_	_
